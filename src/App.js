@@ -6,7 +6,7 @@ import Trailer from './Trailer';
 import Contact from './Contact';
 import NavBar from './NavBar';
 
-//chekpoint router
+//chekpoint router v1
 
 function App() {
   return (
